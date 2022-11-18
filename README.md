@@ -29,5 +29,6 @@ Water is considered as a vital resource that affects various aspects of human he
 Technical Architecture:
 
 
-![image](https://user-images.githubusercontent.com/93308686/202636081-2b3cd5f4-a44d-407b-b815-8e33c358c752.png)
+![image](https://user-images.githubusercontent.com/108518408/202769348-1f6d7454-1f9e-4f86-bbac-bc0b1a987a46.png)
+
 
