@@ -1,3 +1,13 @@
 Herewith,we are attaching the demo link of our project(Efficient Water Quality Analysis & Prediction using Machine Learning)
 
-Team ID: PNT2022TMID15632
+Technology : Machine Learning
+
+Team Id : PNT2022TMID16124
+
+Batch :B8-2A4E
+
+Team Leader : AJAY G
+
+Team Members : JANA R M , GOPI R , KAVIN N
+
+DEMO LINK:https://drive.google.com/drive/folders/1P2h6ESvx301xvL6hqCkPrxq7VGpkT4Mx?usp=sharing
